@@ -1,3 +1,81 @@
-baseURL = "http://example.org/"
+baseurl = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "hello-friend-ng"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Homepage by Eddie Tseng"
+  keywords = "homepage, blog, science, informatics, development, programming"
+  images = [""]
+
+  homeSubtitle = "Full Stack Web Developer"
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  [permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+  [author]
+    name = "Eddie Tseng"
+
+    # Social icons
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:eddietseng@outlook.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/etseng02/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/eddietseng//"
+
+  
+
+[languages]
+  [languages.en]
+    title = "Eddie Tseng"
+    subtitle = ""
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$ cd /home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = ""
+
+	# You can create a language based menu
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Projects"
+        url = "/projects"
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
