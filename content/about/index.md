@@ -12,7 +12,7 @@ As a graduate from Ryerson University’s entrepreneurship and strategy program,
 
 For me, pushing myself both mentally and physically is incredibly rewarding. I’ve pursued a variety of sports that have allowed me to push myself to the limits such as competitive badminton and competitive dragon boat. Currently, I'm trying to become the best that I can be at bouldering (rock climbing without ropes).
 
-I'll never be satisfied with who I am. I hear a voice in my head telling me I that I can do more and be better. But for now this who I currently am.
+I'll never be satisfied with who I am. I hear a voice in my head telling me I can do more and I be better. But for now, this who I currently am.
 
 
 

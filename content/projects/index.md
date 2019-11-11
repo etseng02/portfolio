@@ -2,7 +2,7 @@
 
 <hr />
 
-## Skedoodle
+## Skedoodle!
 Skedoodle is a multiplayer party game modelled after telestrations designed to be played on mobile devices. Players will be able to connect from their mobile browser into a lobby displayed on a monitor or TV. Once the game starts, each player is given a word and asked to draw that word. Drawings will be converted into a blob (Binary Large OBject) and processed by the database. Each drawing is passed to another different player. The server sends a blob and the app converts the blob back into an image. The following player has to guess what they think the image is. The guess is passed and the next player has to draw that word. This continues until all the rounds are complete. Players will be able to visually see on the host machine (typically displayed on a big monitor) how their word and drawings have mutated over each player's iteration.
 
 **Tech Stack:** ReactJS, Express, PostgreSQL, Socket.io
@@ -11,27 +11,37 @@ Skedoodle is a multiplayer party game modelled after telestrations designed to b
 
 
 #### Host Machine View
-{{< image src="/skedoodle2.png" alt="skedoodle" position="center" style="height:500px;">}}
+{{< image src="/skedoodle2.png" alt="skedoodle" position="center" >}}
 
 #### Mobile Client View
-{{< image src="/skedoodle1.png" alt="skedoodle" position="left" style="height:500px;">}}
+{{< image src="/skedoodle1.png" alt="skedoodle" position="left" >}}
 
 <hr />
 
 ## Scheduler
 Interview scheduler that is built using react. The scheduler makes axios requests to a database that stores the data and then updates the state to ensure that the components on the screen are updated in real time.
 
-**Tech Stack:** ReactJS, Express, PostgreSQL
+**Tech Stack:** ReactJS, Express, PostgreSQL, Axios
 
 **Github:** [Scheduler]
 
 #### Scheduler View
-{{< image src="/scheduler1.png" alt="scheduler1" position="left" style="height:400px;">}}
+{{< image src="/scheduler1.png" alt="scheduler1" position="left">}}
 #### Adding an Appointment View
-{{< image src="/scheduler2.png" alt="scheduler2" position="left" style="height:400px;">}}
+{{< image src="/scheduler2.png" alt="scheduler2" position="left">}}
 #### Appointment is Successfully Added and Spots are Updated
-{{< image src="/scheduler3.png" alt="scheduler3" position="left" style="height:400px;">}}
+{{< image src="/scheduler3.png" alt="scheduler3" position="left">}}
+
+<hr />
+
+## Round Up
+An event proposal application where users can generate an event proposal with multiple possible event start times for invitees to RSVP. A unique URL is generated every time a new event is created and invitees can follow the URL to cast their RSVP or edit their existing RVSP. Users will be able to visually see results for every other invitee that has already RSVP-ed.
+
+**Tech Stack:** NodeJS, JQuery, Express, PostgreSQL, Fomantic UI
+
+**Github:** [RoundUp]
 
 
 [Skedoodle]:https://github.com/etseng02/illustrations
 [Scheduler]:https://github.com/etseng02/scheduler
+[RoundUp]:https://github.com/etseng02/project-roundup
