@@ -14,5 +14,29 @@ For me, pushing myself both mentally and physically is incredibly rewarding. Iâ€
 
 I'll never be satisfied with who I am. I hear a voice in my head telling me I can do more and I be better. But for now, this who I currently am.
 
+<hr />
 
+### Reading List
+
+* Eric Ries: The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+
+* Jocko Willink, Leif Babin: Extreme Ownership: How U.S. Navy SEALs Lead and Win
+
+* Dan Harris: 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found a Self-Help That Actually Works
+
+* Marshall Goldsmith, Mark Reiter: Triggers: Creating Behavior That Lasts - Becoming the Person You Want to Be
+
+* Chris Voss: Never Split the Difference: Negotiating as if Your Life Depended on It
+
+* Dan Lok: F.U. Money: Make as Much Money as You Damn Well Want and Live Your LIfe as You Damn Well Please!
+
+* Fumio Sasaki, Eriko Sugita - translator: Goodbye, Things: The New Japanese Minimalism
+
+* Greg McKeown: Essentialism: The Disciplined Pursuit of Less
+
+* Cal Newport: So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
+
+* Atul Gawande: The Checklist Manifesto: How to Get Things Right
+
+* Matthew Dixon, Brent Adamson: The Challenger Sale: Taking Control of the Customer Conversation
 
