@@ -2,6 +2,11 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
+[params.favicon.color]
+mask = "#252627"
+msapplication = "#252627"
+theme = "#252627"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
