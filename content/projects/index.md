@@ -2,6 +2,17 @@
 
 <hr />
 
+
+## Remember (IN PROGRESS)
+
+A flashcard application used to help commit knowledge into long term memory. Users are required to create decks. Users can add and remove cards from the deck. Users can enter a study mode to test their knowledge of cards in the deck. The application will determine the next timestamp that the user needs to study each flash card depending on the results. Cards that the user answers incorrectly will have a more frequent interval and the cards that the users answers correctly will have a longer interval. Knowledge that the user frequently gets incorrectly will be reminded at a shorter interval to commit that knowledge to long term memory.
+
+**Tech Stack:** React Native, Redux, Express, PostgreSQL, GraphQL
+
+**Github:** [Remember]
+
+<hr />
+
 ## Skedoodle!
 Skedoodle is a multiplayer party game modelled after telestrations designed to be played on mobile devices. Players will be able to connect from their mobile browser into a lobby displayed on a monitor or TV. Once the game starts, each player is given a word and asked to draw that word. Drawings will be converted into a blob (Binary Large OBject) and processed by the database. Each drawing is passed to another different player. The server sends a blob and the app converts the blob back into an image. The following player has to guess what they think the image is. The guess is passed and the next player has to draw that word. This continues until all the rounds are complete. Players will be able to visually see on the host machine (typically displayed on a big monitor) how their word and drawings have mutated over each player's iteration.
 
@@ -41,7 +52,7 @@ An event proposal application where users can generate an event proposal with mu
 
 **Github:** [RoundUp]
 
-
+[Remember]:https://github.com/etseng02/remember
 [Skedoodle]:https://github.com/etseng02/illustrations
 [Scheduler]:https://github.com/etseng02/scheduler
 [RoundUp]:https://github.com/etseng02/project-roundup
