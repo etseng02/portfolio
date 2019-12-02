@@ -50,7 +50,11 @@ An event proposal application where users can generate an event proposal with mu
 
 **Tech Stack:** NodeJS, JQuery, Express, PostgreSQL, Fomantic UI
 
-**Github:** [RoundUp]
+**Github:** [RoundUp] 
+
+{{< image src="/Create event and user.gif" alt="RoundUp1" position="left">}}
+
+More images available on github.
 
 [Remember]:https://github.com/etseng02/remember
 [Skedoodle]:https://github.com/etseng02/illustrations
