@@ -2,12 +2,25 @@
 
 <hr />
 
+## Face App
+
+Facial recognition web application that can detect faces in a picture and returns a matching name if algorithm has been trained. The application takes a picture and returns boxes around each face. If the algorithm does not know the face, it will simply return unknown around the box. This application has been dockerized into two containers. A front end container and a back end container.
+
+**Tech Stack:** Typescript, ReactJS, SCSS, Python, Flask, Docker
+
+You may download the docker containers to run here:
+
+[FaceApp-FrontEnd-Container]
+
+[FaceApp-BackEnd-Container]
+
+**Github:** [FaceApp] 
 
 ## Remember (IN PROGRESS)
 
 A flashcard application used to help commit knowledge into long term memory. Users are required to create decks. Users can add and remove cards from the deck. Users can enter a study mode to test their knowledge of cards in the deck. The application will determine the next timestamp that the user needs to study each flash card depending on the results. Cards that the user answers incorrectly will have a more frequent interval and the cards that the users answers correctly will have a longer interval. Knowledge that the user frequently gets incorrectly will be reminded at a shorter interval to commit that knowledge to long term memory.
 
-**Tech Stack:** React Native, Redux, Express, PostgreSQL, GraphQL
+**Tech Stack:** React Native, Redux
 
 **Github:** [Remember]
 
@@ -56,6 +69,11 @@ An event proposal application where users can generate an event proposal with mu
 
 More images available on github.
 
+
+
+[FaceApp-FrontEnd-Container]:https://hub.docker.com/r/etseng02/faceapp
+[FaceApp-BackEnd-Container]:https://hub.docker.com/r/etseng02/faceappflask
+[FaceApp]:https://github.com/etseng02/faceapp
 [Remember]:https://github.com/etseng02/remember
 [Skedoodle]:https://github.com/etseng02/illustrations
 [Scheduler]:https://github.com/etseng02/scheduler

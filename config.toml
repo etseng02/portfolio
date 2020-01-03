@@ -15,7 +15,7 @@ theme = "#252627"
 
   # Metadata mostly used in document's head
   description = "Homepage by Eddie Tseng"
-  keywords = "homepage, blog, science, informatics, development, programming"
+  keywords = "homepage, informatics, development, programming"
   images = [""]
 
   homeSubtitle = "Full Stack Web Developer"
