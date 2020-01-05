@@ -6,7 +6,6 @@
 
 Facial recognition web application that can detect faces in a picture and returns a matching name if algorithm has been trained. The application takes a picture and returns boxes around each face. If the algorithm does not know the face, it will simply return unknown around the box. This application has been dockerized into two containers. A front end container and a back end container.
 
-**Tech Stack:** Typescript, ReactJS, SCSS, Python, Flask, Docker
 
 You may download the docker containers to run here:
 
@@ -14,7 +13,19 @@ You may download the docker containers to run here:
 
 [FaceApp-BackEnd-Container]
 
+**Tech Stack:** Typescript, ReactJS, SCSS, Python, Flask, Docker
+
 **Github:** [FaceApp] 
+
+Uploaded a picture of Biden to train the algorithm.
+
+{{< image src="/faceapp1.png" alt="faceapp train" position="center" >}}
+
+
+
+After identifying pictures in a face the application will append the image to the page. The image will identify faces it has been trained on and will display unknown for faces it has not been trained on.
+
+{{< image src="/faceapp2.png" alt="faceapp identify" position="center" >}}
 
 ## Remember (IN PROGRESS)
 
