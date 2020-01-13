@@ -18,7 +18,7 @@ theme = "#252627"
   keywords = "homepage, informatics, development, programming"
   images = [""]
 
-  homeSubtitle = "Full Stack Web Developer"
+  homeSubtitle = "Full Stack Developer"
 
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
