@@ -81,7 +81,7 @@ An event proposal application where users can generate an event proposal with mu
 
 **Github:** [RoundUp] 
 
-{{< image src="/Create event and user.gif" alt="RoundUp1" position="left">}}
+{{< image src="/roundup.png" alt="RoundUp1" position="left">}}
 
 More images available on github.
 
