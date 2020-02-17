@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eddie Tseng</title>
+    <link>/</link>
+    <description>Recent content on Eddie Tseng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Jan 2019 02:42:30 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 19 Jan 2019 02:42:30 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello. My name is Eddie Tseng. I am a Toronto based full stack web developer. I love solving interesting problems. Please do not hesitate to reach out if you think I can fit your needs!
+As a graduate from Ryerson University’s entrepreneurship and strategy program, I’ve always known that creating value, solving problems and self improvement were things that I’ve always loved doing. Becoming a web developer was a natural extension of those traits.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sat, 19 Jan 2019 02:42:30 +0100</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Face App Facial recognition web application that can detect faces in a picture and returns a matching name if algorithm has been trained. The application takes a picture and returns boxes around each face. If the algorithm does not know the face, it will simply return unknown around the box. This application has been dockerized into two containers. A front end container and a back end container.
+You may download the docker containers to run here:</description>
+    </item>
+    
+  </channel>
+</rss>

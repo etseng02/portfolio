@@ -45,3 +45,5 @@ I'll never be satisfied with who I am. I hear a voice in my head telling me I ca
 
 * Matthew Dixon, Brent Adamson: The Challenger Sale: Taking Control of the Customer Conversation
 
+* Carol S. Dweck: Mindset The New Psychology of Success
+
