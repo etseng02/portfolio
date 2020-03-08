@@ -25,6 +25,10 @@ theme = "#252627"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
+  [taxonomies]
+  tag      = "tags"
+  category = "categories"
+
   [permalinks]
     posts = "/posts/:year/:title/"
 
