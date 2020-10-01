@@ -7,6 +7,17 @@ author: Eddie Tseng
 
 <hr />
 
+## Sudoku Solver
+A sudoku solver designed so that users can input solvable sudokus and obtain the final answer.
+
+{{< image src="/sudoku.png" alt="sudoku solver" position="center" >}}
+
+**Visit Website:** [Sudoku-Solver]
+
+**Tech Stack:** Javascript, React, SCSS
+
+**Github:** [Sudoku] 
+
 ## Face App
 
 Facial recognition web application that can detect faces in a picture and returns a matching name if algorithm has been trained. The application takes a picture and returns boxes around each face. If the algorithm does not know the face, it will simply return unknown around the box. This application has been dockerized into two containers. A front end container and a back end container.
@@ -94,3 +105,5 @@ More images available on github.
 [Skedoodle]:https://github.com/etseng02/illustrations
 [Scheduler]:https://github.com/etseng02/scheduler
 [RoundUp]:https://github.com/etseng02/project-roundup
+[Sudoku]:  https://github.com/etseng02/sudoku
+[Sudoku-Solver]: https://solvesudoku.netlify.app/
