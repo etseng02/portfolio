@@ -18,6 +18,8 @@ A sudoku solver designed so that users can input solvable sudokus and obtain the
 
 **Github:** [Sudoku] 
 
+<hr />
+
 ## Face App
 
 Facial recognition web application that can detect faces in a picture and returns a matching name if algorithm has been trained. The application takes a picture and returns boxes around each face. If the algorithm does not know the face, it will simply return unknown around the box. This application has been dockerized into two containers. A front end container and a back end container.
@@ -42,6 +44,8 @@ Uploaded a picture of Biden to train the algorithm.
 After identifying pictures in a face the application will append the image to the page. The image will identify faces it has been trained on and will display unknown for faces it has not been trained on.
 
 {{< image src="/faceapp2.png" alt="faceapp identify" position="center" >}}
+
+<hr />
 
 ## Remember (IN PROGRESS)
 
