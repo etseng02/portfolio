@@ -47,3 +47,13 @@ I'll never be satisfied with who I am. I hear a voice in my head telling me I ca
 
 * Carol S. Dweck: Mindset The New Psychology of Success
 
+* Gene Kim, Kevin Behr, George Spafford: The Phoenix Project
+
+* Gene Kim: The Unicorn Project
+
+* Chris Bailey: Hyperfocus
+
+* James Clear: Atomic Habits
+
+* John Sonmez: The Complete Software Developer's Career Guide
+
